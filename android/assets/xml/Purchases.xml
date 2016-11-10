@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchase_list>
+	<purchase name="pur_noads" type="nonconsumable" className="PurNoAds"
+            image="purchases/noads.png"></purchase>
+	<!-- <category name="pur_cat_flowers" image="purchases/flowers.png">
+		<purchase name="pur_flower_rosa" type="nonconsumable" className="PurRosa"
+            image="flowers/rosa.png"></purchase>
+		<purchase name="pur_flower_matricaria" type="nonconsumable" className="PurMatricaria"
+            image="flowers/matricaria.png"></purchase>
+		<purchase name="pur_flower_moneytree" type="nonconsumable" className="PurMoneytree"
+            image="flowers/moneytree.png"></purchase>
+	</category> -->
+
+    <purchase name="pur_fertilizer" type="consumable" className="PurFertilizers"
+            image="purchases/fertilizer.png"></purchase>
+</purchase_list>

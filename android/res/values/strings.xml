@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flowergotchi</string>
+    <string name="watering">I need water!</string>
+    <string name="loosening">Loosen my soil!</string>
+    <string name="minLightning">I won\'t hold long without light!</string>
+    <string name="maxLightning">Too much light, I\'m burning!</string>
+    <string name="insect">Insects are eating me!</string>
+    <string name="spider">Spider are attacking me!</string>
+    <string name="pause">Game paused.</string>
+    <string name="dead">You flower has withered.</string>
+
+</resources>

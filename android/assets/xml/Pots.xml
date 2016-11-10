@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pot_list>
+    <pot class="com.gpro.flowergotchi.flowerlogic.pots.KeramicPot1" image="pots/pot1.png">
+
+    </pot>
+    <pot class="com.gpro.flowergotchi.flowerlogic.pots.PinkPot" image="pots/pot2.png">
+
+    </pot>
+    <pot class="com.gpro.flowergotchi.flowerlogic.pots.WoodPot" image="pots/pot3.png">
+
+    </pot>
+    <pot class="com.gpro.flowergotchi.flowerlogic.pots.BluePot" image="pots/pot4.png">
+
+    </pot>
+    <pot class="com.gpro.flowergotchi.flowerlogic.pots.HexPot" image="pots/pot5.png">
+
+    </pot>
+
+</pot_list>

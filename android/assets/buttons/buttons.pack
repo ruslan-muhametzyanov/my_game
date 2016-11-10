@@ -1,0 +1,103 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+camera
+  rotate: false
+  xy: 1, 809
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+cameraOnClick
+  rotate: false
+  xy: 1, 607
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 210, 809
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+lightOnClick
+  rotate: false
+  xy: 1, 405
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 210, 607
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+pauseOnClick
+  rotate: false
+  xy: 419, 809
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 1, 203
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+potOnClick
+  rotate: false
+  xy: 210, 405
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+shovel
+  rotate: false
+  xy: 419, 607
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+shovelOnClick
+  rotate: false
+  xy: 628, 809
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+statistic
+  rotate: false
+  xy: 1, 1
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+statisticOnClick
+  rotate: false
+  xy: 210, 203
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 419, 405
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1
+waterOnClick
+  rotate: false
+  xy: 628, 607
+  size: 207, 200
+  orig: 207, 200
+  offset: 0, 0
+  index: -1

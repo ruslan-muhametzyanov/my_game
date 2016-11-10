@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flowergotchi</string>
+    <string name="watering">给我浇水吧!</string>
+    <string name="loosening">挖地吧!</string>
+    <string name="minLightning">没有足够的光线!</string>
+    <string name="maxLightning">太亮!</string>
+    <string name="insect">昆虫攻击我!</string>
+    <string name="spider">蜘蛛攻击我 !</string>
+    <string name="pause">暂停</string>
+    <string name="dead">花枯萎了</string>
+
+</resources>

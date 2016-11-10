@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flowergotchi</string>
+    <string name="watering">Полей меня!</string>
+    <string name="loosening">Порыхли мою землю!</string>
+    <string name="minLightning">Я не протяну долго без света!</string>
+    <string name="maxLightning">Слишком много света, могу сгореть!</string>
+    <string name="insect">Меня едят насекомые!</string>
+    <string name="spider">На меня напали пауки!</string>
+    <string name="pause">Игра приостановлена</string>
+    <string name="dead">Ваш цветок завял</string>
+
+</resources>

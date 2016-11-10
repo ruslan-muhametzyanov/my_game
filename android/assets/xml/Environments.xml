@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment_list>
+    <environment name="env_boat" ambientCount="1"
+                 background="environments/boat/backBoat.png"
+                 button="environments/boat/backBoatButton.png" folder="environments/boat" x1="200"
+                 x2="1000" y1="480" y2="350">
+        <time name="Morning" background="environments/boat/backBoatMorning.png"></time>
+        <time name="Day" background="environments/boat/backBoatDay.png"></time>
+        <time name="Evening" background="environments/boat/backBoatEvening.png"></time>
+        <time name="Night" background="environments/boat/backBoatNight.png"></time>
+	</environment>
+
+    <environment name="env_town" ambientCount="1"
+                 background="environments/plastic/backPlastic.png"
+                 button="environments/plastic/backPlasticButton.png" folder="environments/plastic"
+                 x1="200"
+                 x2="1000" y1="500" y2="300">
+        <time name="Morning" background="environments/plastic/backPlasticMorning.png"></time>
+        <time name="Day" background="environments/plastic/backPlasticDay.png"></time>
+        <time name="Evening" background="environments/plastic/backPlasticEvening.png"></time>
+        <time name="Night" background="environments/plastic/backPlasticNight.png"></time>
+	</environment>
+
+    <environment name="env_village" ambientCount="1"
+                 background="environments/city/backCity.png"
+                 button="environments/city/backCityButton.png" folder="environments/city" x1="200"
+                 x2="1000" y1="550" y2="450">
+        <time name="Morning" background="environments/city/backCityMorning.png"></time>
+        <time name="Day" background="environments/city/backCityDay.png"></time>
+        <time name="Evening" background="environments/city/backCityEvening.png"></time>
+        <time name="Night" background="environments/city/backCityNight.png"></time>
+    </environment>
+
+    <environment name="env_city" ambientCount="1"
+                 background="environments/window/backWindow.png"
+                 button="environments/window/backWindowButton.png" folder="environments/window"
+                 x1="250"
+                 x2="1000" y1="500" y2="350">
+        <time name="Morning" background="environments/window/backWindowMorning.png"></time>
+        <time name="Day" background="environments/window/backWindowDay.png"></time>
+        <time name="Evening" background="environments/window/backWindowEvening.png"></time>
+        <time name="Night" background="environments/window/backWindowNight.png"></time>
+    </environment>
+
+</environment_list>

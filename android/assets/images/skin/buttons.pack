@@ -1,0 +1,68 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messageBox
+  rotate: false
+  xy: 1, 364
+  size: 487, 653
+  orig: 487, 653
+  offset: 0, 0
+  index: -1
+tip
+  rotate: false
+  xy: 1, 144
+  size: 652, 218
+  orig: 652, 218
+  offset: 0, 0
+  index: -1
+defButton
+  rotate: false
+  xy: 1, 1
+  size: 526, 141
+  orig: 526, 141
+  offset: 0, 0
+  index: -1
+defButtonPressed
+  rotate: false
+  xy: 490, 876
+  size: 526, 141
+  orig: 526, 141
+  offset: 0, 0
+  index: -1
+smallGreen
+  rotate: false
+  xy: 490, 757
+  size: 259, 117
+  orig: 259, 117
+  offset: 0, 0
+  index: -1
+smallRed
+  rotate: false
+  xy: 490, 636
+  size: 169, 119
+  orig: 169, 119
+  offset: 0, 0
+  index: -1
+smallRedPressed
+  rotate: false
+  xy: 490, 515
+  size: 169, 119
+  orig: 169, 119
+  offset: 0, 0
+  index: -1
+smallYellow
+  rotate: false
+  xy: 490, 394
+  size: 169, 119
+  orig: 169, 119
+  offset: 0, 0
+  index: -1
+smallYellowPressed
+  rotate: false
+  xy: 751, 755
+  size: 169, 119
+  orig: 169, 119
+  offset: 0, 0
+  index: -1

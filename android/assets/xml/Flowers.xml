@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flower_list>
+    <flower name="flower_rosa"
+            class="com.gpro.flowergotchi.flowerlogic.flowers.RosaFlower.Rosa"
+            image="flowers/rosa.png"></flower>
+
+    <flower name="flower_matricaria"
+            class="com.gpro.flowergotchi.flowerlogic.flowers.MatricariaFlower.Matricaria"
+            image="flowers/matricaria.png"></flower>
+
+    <flower name="flower_moneytree"
+            class="com.gpro.flowergotchi.flowerlogic.flowers.MoneyTreeFlower.MoneyTree"
+            image="flowers/moneytree.png"></flower>
+
+</flower_list>
